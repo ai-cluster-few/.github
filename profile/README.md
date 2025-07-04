@@ -1,4 +1,4 @@
-## FEW NERD Research
+ai-cluster-nerd
 
 <br>
 <br>
