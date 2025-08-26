@@ -1,4 +1,4 @@
-ai-cluster-nerd
+ai-cluster-few
 
 <br>
 <br>
